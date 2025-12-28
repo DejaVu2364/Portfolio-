@@ -60,6 +60,14 @@ export default function AboutPage() {
                             </p>
 
                             <p>
+                                My most ambitious project? <span className="text-white">Astra Intelligence</span> —
+                                India&apos;s first self-improving political intelligence platform. It turns
+                                the noise of thousands of social media comments into clear, actionable
+                                insights for politicians and governance teams. Kannada-first, real-time,
+                                built for how Indian democracy actually works.
+                            </p>
+
+                            <p>
                                 But I&apos;ve never been just about code. I spent years in political PR,
                                 running digital campaigns for elections, building teams at{" "}
                                 <span className="text-white">SS Care Trust</span>, and directing a{" "}
