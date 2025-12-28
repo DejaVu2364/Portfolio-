@@ -47,7 +47,7 @@ export default function ResearchPage() {
                                     <span className="px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-300 text-xs font-medium">
                                         Awarded
                                     </span>
-                                    <span className="text-sm text-white/40">2024</span>
+                                    <span className="text-sm text-white/40">2020</span>
                                 </div>
                                 <h3 className="text-lg font-medium text-white mb-2">AMEE FORLER Research Grant</h3>
                                 <p className="text-white/50 text-sm mb-3">

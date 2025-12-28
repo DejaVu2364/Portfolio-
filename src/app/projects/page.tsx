@@ -55,10 +55,10 @@ const documentaries = [
 ]
 
 const otherWork = [
-    { title: "Echelon Live", desc: "Media & PR startup • 4+ years", icon: Users },
-    { title: "Political Campaigns", desc: "State & Lok Sabha elections", icon: Globe },
-    { title: "TEDx Design", desc: "TEDxJJMMC + TEDx Davangere", icon: Film },
-    { title: "SS Care Trust", desc: "Student Wing Co-Founder", icon: Users },
+    { title: "Echelon Live", desc: "Artist Management Company • Est. 2026", icon: Users },
+    { title: "Political Campaigns", desc: "State & Lok Sabha elections • 2024", icon: Globe },
+    { title: "TEDx Design", desc: "TEDxJJMMC (2022) + TEDx Davangere (2024)", icon: Film },
+    { title: "SS Care Trust", desc: "Student Wing Co-architect", icon: Users },
 ]
 
 export default function ProjectsPage() {

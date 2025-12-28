@@ -33,7 +33,7 @@ export default function ContactCTA() {
                     {/* CTAs */}
                     <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
                         <a
-                            href="mailto:hello@harikrishnan.me"
+                            href="mailto:harikrishnan6465@gmail.com"
                             className="group w-full sm:w-auto px-8 py-4 rounded-full bg-gradient-to-r from-[#18A5FF] to-[#20E6E6] text-black font-semibold hover:shadow-[0_0_40px_rgba(32,230,230,0.3)] transition-all flex items-center justify-center gap-2"
                         >
                             <Mail size={18} />
@@ -68,7 +68,7 @@ export default function ContactCTA() {
                             LinkedIn →
                         </a>
                         <a
-                            href="https://github.com/harikrishnan"
+                            href="https://github.com/DejaVu2364"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="hover:text-white transition-colors"

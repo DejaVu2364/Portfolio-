@@ -16,16 +16,16 @@ const experience = [
         icon: Building2,
         items: [
             {
-                role: "Social Media Lead",
+                role: "Digital Marketing Lead",
                 org: "SS Care Trust",
-                period: "2022 – 2023",
+                period: "2023 – 2024",
                 description: "Led digital strategy for election campaigns and built the social media operations from scratch.",
-                highlights: ["State Assembly & Lok Sabha campaigns", "Co-founded Student Wing", "Built 50+ volunteer team"]
+                highlights: ["State Assembly & Lok Sabha campaigns", "Co-architected Student Wing", "Built 50+ volunteer team"]
             },
             {
                 role: "Director",
                 org: "\"From Roots to Wings\" Documentary",
-                period: "2023",
+                period: "2024",
                 description: "Directed and produced a documentary chronicling Dr. Prabha Mallikarjun's journey.",
                 highlights: ["Full creative direction", "Script to screen", "Recognized for storytelling"]
             },
@@ -45,9 +45,9 @@ const experience = [
             {
                 role: "Founder",
                 org: "Echelon Live",
-                period: "2020 – Present",
-                description: "Founded media and PR startup for political communication and event management.",
-                highlights: ["4+ years running", "Campaign strategy", "Talent management"]
+                period: "2026 – Present",
+                description: "Establishing an Artist Management Company for talent representation and creative partnerships.",
+                highlights: ["Artist management", "Brand partnerships", "Creative direction"]
             },
         ]
     },
@@ -72,7 +72,7 @@ const experience = [
             {
                 role: "AMEE Research Grant",
                 org: "Association for Medical Education in Europe",
-                period: "2024",
+                period: "2020",
                 description: "Awarded competitive international grant for medical education research.",
                 highlights: ["International recognition", "Research methodology"]
             },

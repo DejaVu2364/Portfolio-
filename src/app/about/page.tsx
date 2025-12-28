@@ -136,12 +136,13 @@ export default function AboutPage() {
 
                     <div className="space-y-6">
                         {[
-                            { year: "2019", event: "Started medical school" },
-                            { year: "2020", event: "Founded Echelon Live — media & PR startup" },
-                            { year: "2022", event: "Led TEDxJJMMC design • Co-founded SS Care Trust Student Wing" },
-                            { year: "2023", event: "Directed documentary • Led election campaigns" },
-                            { year: "2024", event: "Built MedFlow AI & Seva AI • Received AMEE research grant" },
-                            { year: "2025", event: "MBBS Intern • Scaling impact" },
+                            { year: "2019", event: "Started medical school at JJM Medical College" },
+                            { year: "2020", event: "Received AMEE Research Grant" },
+                            { year: "2022", event: "Led TEDxJJMMC curation & design" },
+                            { year: "2023", event: "Led SS Care Trust digital marketing" },
+                            { year: "2024", event: "Key role in 2 election campaigns • Directed 'From Roots to Wings' • TEDxDavangere • Co-architected SS Care Trust Student Wing" },
+                            { year: "2025", event: "Built MedFlow AI, Seva AI, AstraAI • Docathon 2025 Grand Finalist • MBBS Intern" },
+                            { year: "2026", event: "Establishing Echelon Live — Artist Management Company" },
                         ].map((item, i) => (
                             <motion.div
                                 key={item.year}

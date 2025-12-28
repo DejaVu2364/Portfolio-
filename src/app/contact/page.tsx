@@ -4,9 +4,9 @@ import { motion } from "framer-motion"
 import { Mail, Github, Linkedin, Twitter, MapPin, Download } from "lucide-react"
 
 const socials = [
-    { icon: Mail, label: "Email", value: "hello@harikrishnan.me", href: "mailto:hello@harikrishnan.me" },
+    { icon: Mail, label: "Email", value: "harikrishnan6465@gmail.com", href: "mailto:harikrishnan6465@gmail.com" },
     { icon: Linkedin, label: "LinkedIn", value: "Connect", href: "https://linkedin.com/in/harikrishnan" },
-    { icon: Github, label: "GitHub", value: "Code", href: "https://github.com/harikrishnan" },
+    { icon: Github, label: "GitHub", value: "Code", href: "https://github.com/DejaVu2364" },
     { icon: Twitter, label: "Twitter", value: "Updates", href: "https://twitter.com/harikrishnan" },
 ]
 
@@ -76,7 +76,7 @@ export default function ContactPage() {
 
                         {/* Resume */}
                         <a
-                            href="/resume.pdf"
+                            href="https://drive.google.com/file/d/1uaWK9eft9LAS29ONrn7kc1NAcbmkK6LT/view?usp=sharing"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-3 p-5 rounded-xl bg-gradient-to-r from-[#18A5FF]/10 to-[#20E6E6]/10 border border-white/5 hover:border-white/15 transition-colors"
