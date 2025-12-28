@@ -27,15 +27,15 @@ const aiProjects = [
         tags: ["NLP", "Voice AI", "Civic Tech"]
     },
     {
-        id: "astra-ai",
-        title: "AstraAI",
-        tagline: "Personal AI assistant",
-        description: "Multi-agent AI for automating workflows. Research, writing, scheduling — one interface.",
+        id: "astra-intelligence",
+        title: "Astra Intelligence",
+        tagline: "Political intelligence platform",
+        description: "India's first self-improving political intelligence platform by MomentumLABS. Converts public social media data into actionable governance strategy.",
         status: "Active",
         icon: Laptop,
         color: "from-purple-500/20 to-pink-500/20",
         url: "https://astra-intel-nexus.lovable.app/",
-        tags: ["Multi-Agent", "LLM", "Automation"]
+        tags: ["Political Tech", "Analytics", "Kannada-first"]
     },
 ]
 

@@ -27,15 +27,15 @@ const products = [
         metrics: "Voice AI • Regional languages"
     },
     {
-        name: "AstraAI",
-        tagline: "Personal AI assistant",
-        description: "Multi-agent AI for automating research, writing, and scheduling workflows.",
+        name: "Astra Intelligence",
+        tagline: "Political intelligence platform",
+        description: "India's first self-improving political intelligence platform. Converts social media noise into actionable strategy for governance.",
         status: "Active",
         statusColor: "bg-blue-500",
         icon: Laptop,
         gradient: "from-purple-500/20 to-pink-500/20",
         url: "https://astra-intel-nexus.lovable.app/",
-        metrics: "Multi-agent • Automation"
+        metrics: "Kannada-first • Real-time insights"
     },
 ]
 

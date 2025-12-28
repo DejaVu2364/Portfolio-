@@ -13,7 +13,7 @@ const highlights = [
     {
         icon: Briefcase,
         title: "3 Products Shipped",
-        description: "MedFlow AI, Seva AI, AstraAI",
+        description: "MedFlow AI, Seva AI, Astra Intelligence",
     },
     {
         icon: Users,

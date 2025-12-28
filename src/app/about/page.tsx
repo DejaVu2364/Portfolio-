@@ -141,7 +141,7 @@ export default function AboutPage() {
                             { year: "2022", event: "Led TEDxJJMMC curation & design" },
                             { year: "2023", event: "Led SS Care Trust digital marketing" },
                             { year: "2024", event: "Key role in 2 election campaigns • Directed 'From Roots to Wings' • TEDxDavangere • Co-architected SS Care Trust Student Wing" },
-                            { year: "2025", event: "Built MedFlow AI, Seva AI, AstraAI • Docathon 2025 Grand Finalist • MBBS Intern" },
+                            { year: "2025", event: "Built MedFlow AI, Seva AI, Astra Intelligence • Docathon 2025 Grand Finalist • MBBS Intern" },
                             { year: "2026", event: "Establishing Echelon Live — Artist Management Company" },
                         ].map((item, i) => (
                             <motion.div
