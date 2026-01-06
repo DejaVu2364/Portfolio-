@@ -38,7 +38,7 @@ export default function Hero() {
                     >
                         <span className="inline-flex items-center gap-2 text-xs px-3 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-300">
                             <Award size={12} />
-                            Docathon 2025 Grand Finalist
+                            Docathon 2025
                         </span>
                         <span className="inline-flex items-center gap-2 text-xs px-3 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-300">
                             <Sparkles size={12} />
