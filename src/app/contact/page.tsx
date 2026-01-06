@@ -7,7 +7,7 @@ const socials = [
     { icon: Mail, label: "Email", value: "harikrishnan6465@gmail.com", href: "mailto:harikrishnan6465@gmail.com" },
     { icon: Linkedin, label: "LinkedIn", value: "Connect", href: "https://www.linkedin.com/in/harikrishnan-s-22195b250/" },
     { icon: Github, label: "GitHub", value: "Code", href: "https://github.com/DejaVu2364" },
-    { icon: Twitter, label: "Twitter", value: "Updates", href: "https://twitter.com/harikrishnan" },
+    { icon: Twitter, label: "Twitter", value: "Updates", href: "https://x.com/hurrryyyyy" },
 ]
 
 export default function ContactPage() {
